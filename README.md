@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mikellaiseca@gmail.com**
 
-- ⚡ Fun fact **I lived in Berlin and São Paulo**
+- ⚡ Fun fact: **I lived in Berlin:germany: and São Paulo:brazil:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
