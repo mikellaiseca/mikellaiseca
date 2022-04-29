@@ -1,4 +1,4 @@
-<h2>Welcome! I’m Mikel :wave:</h2>
+<h1 align="center">Welcome! I’m Mikel :wave:</h1>
 
 :mortar_board: I am a Full-Stack developer graduated in International Business with previous experience in the logistics and export/import industries, eager to keep learning and improving my coding skills and always looking for new challenges to grow personally and professionally.
 
