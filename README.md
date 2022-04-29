@@ -1,8 +1,6 @@
-### Hi there 👋
+<h2>Welcome! I’m Mikel</h2>
 
-<h2>:rocket: About me</h2>
-
-I’m Mikel!
+<hr></hr>
 
 :mortar_board: I am a Full-Stack developer graduated in International Business with previous experience in the logistics and export/import industries, eager to keep learning and improving my coding skills and always looking for new challenges to grow personally and professionally.
 
