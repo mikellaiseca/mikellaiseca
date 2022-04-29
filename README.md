@@ -1,7 +1,5 @@
 <h2>Welcome! I’m Mikel</h2>
 
-<hr></hr>
-
 :mortar_board: I am a Full-Stack developer graduated in International Business with previous experience in the logistics and export/import industries, eager to keep learning and improving my coding skills and always looking for new challenges to grow personally and professionally.
 
 :globe_with_meridians: My curiosity and ambition to get out of my confort zone have led me to live abroad in Berlin and São Paulo, both to study and to develop my professional career. This experiences helped me to become more autonomous, flexible and used to work in diverse environments. I also learned new languages.
