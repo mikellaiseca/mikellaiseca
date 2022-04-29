@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! I'm Mikel👋</h1>
-<h3 align="center">I am a Full-Stack developer graduated in International Business with previous experience in the logistics and export/import industries, eager to keep learning and improving my coding skills and always looking for new challenges to grow personally and professionally.</h3>
+<h3>I am a Full-Stack developer graduated in International Business with previous experience in the logistics and export/import industries, eager to keep learning and improving my coding skills and always looking for new challenges to grow personally and professionally.</h3>
 
 - 🏠 Based in Madrid 🇪🇸
 
