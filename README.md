@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mikel</h1>
+<h1 align="center">Welcome! I'm Mikel👋</h1>
 <h3 align="center">I am a Full-Stack developer graduated in International Business with previous experience in the logistics and export/import industries, eager to keep learning and improving my coding skills and always looking for new challenges to grow personally and professionally.</h3>
 
 - 🌱 I’m currently learning **Angular, Typescript**
 
 - 📫 How to reach me **mikellaiseca@gmail.com**
 
-- ⚡ Fun fact: **I lived in Berlin:germany: and São Paulo:brazil:**
+- ⚡ Fun fact: **I lived in Berlin:de: and São Paulo:brazil:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
