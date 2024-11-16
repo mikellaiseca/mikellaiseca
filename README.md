@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular, Typescript**
 
-- 📫 How to reach me **mikellaiseca@gmail.com**
-
 - ⚡ Fun fact: **I lived in Berlin:de: and São Paulo:brazil:**
 
 <h3 align="left">Connect with me:</h3>
